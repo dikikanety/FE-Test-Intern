@@ -11,7 +11,7 @@ export default function FindService() {
           style={{ backgroundImage: `url(${BackgroundLine})` }}
         />
         <div className="mx-auto max-w-7xl flex justify-between flex-col md:flex-row z-10">
-          <div className="mx-auto max-w-xl text-center lg:mx-0 lg:flex-auto lg:py-32 lg:text-left z-10">
+          <div className="pl-5 mx-auto max-w-xl text-center lg:mx-0 lg:flex-auto lg:py-32 lg:text-left z-10">
             <h2 className="text-black text-3xl font-normal font-ubuntu-mono tracking-tight sm:text-5xl">
               Enjoy your vacation and don&apos;t worry about your documents
             </h2>

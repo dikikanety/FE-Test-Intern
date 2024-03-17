@@ -45,7 +45,7 @@ export default function Testimonial() {
     <section aria-labelledby="Testimonial" className="bg-white py-24 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-lg lg:text-center">
-          <h2 className="tracking-tight text-black text-3xl font-normal font-ubuntu-mono">
+          <h2 className="tracking-tight text-center text-black text-3xl font-normal font-ubuntu-mono">
             What our customer says
           </h2>
           <p className="mt-5 leading-7 opacity-50 text-center text-black text-base font-normal font-plus-jakarta-sans">

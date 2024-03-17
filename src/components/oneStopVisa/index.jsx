@@ -32,7 +32,7 @@ export default function OneStopVisa() {
     >
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <div className="mx-auto max-w-2xl sm:text-center">
-          <h2 className="text-3xl font-normal tracking-tight text-gray-900 font-ubuntu-mono sm:text-4xl">
+          <h2 className="text-3xl font-normal tracking-tight text-center text-gray-900 font-ubuntu-mono sm:text-4xl">
             One-stop Visa in Indonesia
           </h2>
           <p className="mt-6 opacity-50 text-center text-black text-base font-normal font-plus-jakarta-sans">

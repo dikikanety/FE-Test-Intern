@@ -43,7 +43,7 @@ export default function HowToRegistration() {
       />
       <div className="mx-auto max-w-7xl px-6 lg:px-8 relative">
         <div className="mx-auto max-w-2xl lg:max-w-lg lg:text-center">
-          <h2 className="mt-2 text-white text-3xl font-bold font-plus-jakarta-sans">
+          <h2 className="mt-2 text-white text-center text-3xl font-bold font-plus-jakarta-sans">
             Less effort to get your visa
           </h2>
           <p className="mt-6 text-base leading-7 opacity-50 text-white font-normal font-plus-jakarta-sans">

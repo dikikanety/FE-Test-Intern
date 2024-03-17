@@ -4,20 +4,20 @@ A website static for frontend intern test at SP Digital Agency.
 
 ## Demo
 
-Insert gif or link to demo
+[demo](https://dikikanety.github.io/FE-Test-Intern/)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/dikikanety/FE-Test-Intern.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd FE-Test-Intern
 ```
 
 Install dependencies
